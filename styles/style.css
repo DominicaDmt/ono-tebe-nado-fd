@@ -34,7 +34,7 @@
     line-height: 24.3px;
 }
 
-.header .address{
+.header .address {
     max-width: 236px;
     justify-self: end;
 }
@@ -50,7 +50,7 @@
     background-position: center;
     position: relative;
     padding: 165px 50px 50px 50px;
-    color: #FFFFFF; 
+    color: #FFFFFF;
 }
 
 .overlay {

@@ -15,12 +15,13 @@
 .header__links-list {
     display: flex;
     gap: 31.48px;
-    list-style: circle; }
+    list-style: circle;
+}
 
 .header__link {
     font-size: 18px;
     line-height: 100%;
-    text-underline-offset: 4px; 
+    text-underline-offset: 4px;
 }
 
 .header__link_active {
@@ -108,6 +109,7 @@
     border: 1px solid #FFFFFF;
     padding: 12px 32px;
 }
+
 .lots{
     padding: 180px 24px 120px;
 }
@@ -169,7 +171,7 @@
     text-transform: uppercase;
     text-decoration: underline;
     text-decoration-color: #FFFFFF;
-    text-underline-offset: 4px; 
+    text-underline-offset: 4px;
 }
 
 .card__text { 
@@ -192,7 +194,7 @@
     display: grid;
     grid-template-columns: 334px 1fr;
     padding: 0 24px 180px;
-    gap: 24px;   
+    gap: 24px;
 }
 
 .about__logo {
@@ -260,7 +262,7 @@
 .footer__menu-link {
     font-size: 18px;
     line-height: 100%;
-    text-underline-offset: 4px; 
+    text-underline-offset: 4px;
 }
 
 .footer__menu-link_active {

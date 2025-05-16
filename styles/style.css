@@ -33,7 +33,7 @@
     font-size: 18px;
     font-style: normal;
     justify-self: end;
-    text-underline-offset: 4px; 
+    text-underline-offset: 4px;
     line-height: 24.3px;
 }
 
@@ -110,7 +110,7 @@
     padding: 12px 32px;
 }
 
-.lots{
+.lots {
     padding: 180px 24px 120px;
 }
 
@@ -174,7 +174,7 @@
     text-underline-offset: 4px;
 }
 
-.card__text { 
+.card__text {
     margin-top: auto;
     position: relative;
     font-size: 20px;
@@ -246,7 +246,7 @@
     max-width: 264.57px;
     font-size: 18px;
     font-style: normal;
-    text-underline-offset: 4px; 
+    text-underline-offset: 4px;
     line-height: 24.3px;
 }
 
